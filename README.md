@@ -4,7 +4,7 @@ GUI application to play the game __Simon__. This is a memory game in which the p
 has to remember each color combination the game generates and try transcribing each
 combination to continue to the next level until the player fails.
 
-![Simon logo](/simon/ressources/simon-pic.jpg)
+![Simon logo](/ressources/simon-pic.jpg)
 
 ## Getting started
 
