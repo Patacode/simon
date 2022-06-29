@@ -20,13 +20,13 @@ The default guideline compiles and executes the program.
 For example, to run it using `make` with the current directory pointing to `Simon`:
 
 ```
-[~/56080-atlg3/Simon] make
+[~/Simon] make
 ```
 
 Or using `maven` directly, in the same directory:
 
 ```
-[~/56080-atlg3/Simon] mvn javafx:run
+[~/Simon] mvn javafx:run
 ```
 
 The application use maven for its management and JavaFx for the graphical interface. Moreover, 
